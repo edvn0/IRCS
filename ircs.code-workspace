@@ -1,0 +1,15 @@
+{
+  "folders": [
+    {
+      "name": "IRCS",
+      "path": "."
+    }
+  ],
+  "settings": {
+    "clang-format.language.cpp.enable": true,
+    "C_Cpp.default.compileCommands": "compile_commands.json",
+    "C_Cpp.intelliSenseEngine": "disabled",
+    "editor.tabSize": 4,
+    "editor.useTabStops": true,
+  }
+}

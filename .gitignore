@@ -12,7 +12,7 @@ Thumbs.db
 *.tga
 
 .idea
-cmake-*
+cmake-build*
 
 *.prof
 
@@ -26,9 +26,6 @@ VS
 
 *.spv
 
-XCode
-Xcode
-xcode
 compile_commands.json
 
 # Compiled Object files
@@ -64,6 +61,4 @@ compile_commands.json
 # Folders
 build*
 
-app/resources/scene/*.json
-
-!./app/resources/editor
+!./.gitignore
